@@ -5,9 +5,7 @@ RUN apt-get install -y \
 nano \
 sqlite3 \
 git-core \
-git-annex \
 netcat \
-pv \
 unzip \
 byobu
 
