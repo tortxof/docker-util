@@ -6,8 +6,8 @@ nano \
 sqlite3 \
 git-core \
 netcat \
-unzip \
-byobu
+socat \
+unzip
 
 ENV TERM=linux
 
