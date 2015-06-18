@@ -13,4 +13,4 @@ rm -rf /var/lib/apt/lists/*
 
 ENV TERM=linux
 
-ENTRYPOINT ["/bin/bash"]
+CMD ["/bin/bash"]
